@@ -45,11 +45,40 @@
   background-image: url('./images/scratch-white.svg');
 }
 
+.banner-decoration {
+  @apply absolute w-full left-0;
+  top: 100%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.post-content {
+  @apply text-lg text-mirage;
+}
+
+.post-content p {
+  @apply mt-6 leading-snug;
+}
+
+.post-content a {
+  @apply underline font-bold;
+}
+
+.post-content h2 {
+  @apply font-beth-ellen text-2xl mt-10 leading-tight;
+}
+
 @screen md {
   .content {
     @apply w-5/6;
   }
   .banner-title {
+    @apply text-3xl;
+  }
+  .post-content {
+    @apply text-xl;
+  }
+  .post-content h2 {
     @apply text-3xl;
   }
 }
