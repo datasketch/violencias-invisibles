@@ -1,3 +1,63 @@
 @tailwind base;
+
+@font-face {
+  font-family: 'Beth Ellen';
+  font-weight: 400;
+  src: url('./fonts/BethEllen-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-weight: 500;
+  src: url('./fonts/BarlowCondensed-Medium.ttf');
+}
+
 @tailwind components;
+
+.content {
+  @apply w-full px-4 mx-auto;
+}
+
+.image-white {
+  filter: brightness(0) invert(1);
+}
+
+.button {
+  @apply inline-block px-4 py-2 leading-none uppercase;
+}
+
+.banner-title {
+  @apply text-2xl font-beth-ellen relative;
+}
+
+.banner-title:after {
+  @apply absolute w-16 h-4 bg-contain bg-center bg-no-repeat left-0;
+  content: '';
+  top: 100%;
+  transform: translateY(10px);
+}
+
+.banner-title.scratch-mirage:after {
+  background-image: url('./images/scratch-blue.svg');
+}
+
+.banner-title.scratch-white:after {
+  background-image: url('./images/scratch-white.svg');
+}
+
+@screen md {
+  .content {
+    @apply w-5/6;
+  }
+  .banner-title {
+    @apply text-3xl;
+  }
+}
+
+@screen lg {
+  .banner-title {
+    @apply text-4xl;
+  }
+}
+
 @tailwind utilities;

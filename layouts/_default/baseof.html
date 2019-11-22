@@ -6,10 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ .Site.Title }}</title>
   {{ $styles := resources.Get "tailwind.css" | postCSS }}
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ $styles.Permalink }}">
 </head>
 <body>
-  <div class="wrapper">
+  <div class="wrapper font-barlow-condensed">
     <main>
       {{ block "main" . }}{{ end }}
     </main>
