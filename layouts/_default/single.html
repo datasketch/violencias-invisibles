@@ -1,5 +1,6 @@
 {{ define "main" }}
-  <div class="py-32 bg-eden">
+  {{ $bg := .Params.background }}
+  <div class="py-32 bg-center bg-cover bg-no-repeat" style="background-image: url(/images/{{$bg}}.png);">
     <div class="content">
       <div class="w-full md:w-2/3">
         <h1 class="text-white font-beth-ellen text-4xl md:text-5xl lg:text-6xl">{{ .Title }}</h1>

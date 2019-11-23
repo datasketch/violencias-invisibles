@@ -2,6 +2,7 @@
 title: "Las exigencias de belleza y las violencias contundentes"
 date: 2019-11-22T12:14:04-05:00
 draft: false
+background: eden
 ---
 
 En junio de 2019 un juzgado de Tunja ordenó la detención carcelaria del soldado profesional Herminson Rueda por feminicidio y hurto agravado, quien hizo pasar inicialmente el hecho como el suicidio de su esposa Heidy Ramírez.

@@ -11,6 +11,7 @@
 </head>
 <body>
   <div class="wrapper font-barlow-condensed">
+    {{ partial "header.html" . }}
     <main>
       {{ block "main" . }}{{ end }}
     </main>
