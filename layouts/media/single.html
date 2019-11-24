@@ -1,5 +1,6 @@
 {{ define "main" }}
   {{ $bg := .Params.background }}
+  <input type="hidden" name="base_url" value="{{ .Site.BaseURL }}">
   <div class="py-32 bg-center bg-cover bg-no-repeat" style='background-image: url("{{.Site.BaseURL}}images/{{$bg}}.png");' id="post-header">
     <div class="content">
       <div class="w-full md:w-2/3">

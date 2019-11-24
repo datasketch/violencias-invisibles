@@ -1,8 +1,9 @@
+var baseURL = document.querySelector('input').value;
 var firstAudioBtn = document.getElementById('first-audio');
 var secondAudioBtn = document.getElementById('last-audio');
 
-var firstAudioMedia = new Audio('/media/leandra.mp3');
-var secondAudioMedia = new Audio('/media/yury.mp3');
+var firstAudioMedia = new Audio(baseURL + 'media/leandra.mp3');
+var secondAudioMedia = new Audio(baseURL + 'media/yury.mp3');
 
 firstAudioBtn.addEventListener('click', function() {
   var isPaused = firstAudioMedia.paused;

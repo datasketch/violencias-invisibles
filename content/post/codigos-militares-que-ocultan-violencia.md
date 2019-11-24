@@ -7,13 +7,23 @@ background: surfie-blue
 
 Es recurrente encontrar en los testimonios de mujeres agredidas por miembros activos o retirados de la Fuerza Pública el comportamiento de "espíritu de cuerpo" (un código militar que significa lealtad ante las órdenes y obediencia a los superiores) por parte de la Policía como agente inmediato que debe actuar ante una agresión.
 
-Cuando ellas se han comunicado a la línea de emergencia 123 Mujer (Línea de atención de Bogotá para atender violencias ejercidas contra mujeres) para reportar el hecho de violencia, llega la Policía y "casi que se sientan a tomar tinto con ellos, a uno lo ignoran por completo sea lo que haya pasado"  afirma [Leandra](https://docs.google.com/document/d/1qapU4yoEDTSNCGhx3REsZR3gJVovwBXz7pemk328jw4/edit#), víctima de violencia por parte de su ex esposo, sargento activo del Ejército.
+{{< chart file="seis.html" caption="0.2% de todos los efectivos de la fuerza pública han sido o son presuntos agresores de mujeres." >}}
+
+Cuando ellas se han comunicado a la línea de emergencia 123 Mujer (Línea de atención de Bogotá para atender violencias ejercidas contra mujeres) para reportar el hecho de violencia, llega la Policía y "casi que se sientan a tomar tinto con ellos, a uno lo ignoran por completo sea lo que haya pasado"  afirma [Leandra]({{< ref "post/luchas-y-sobrevivientes.md" >}}), víctima de violencia por parte de su ex esposo, sargento activo del Ejército.
+
+{{< chart file="uno.html" caption="La Secretaría de la Mujer de Bogotá reportó 75 mujeres atendidas en 2018 que manifestaron que su agresor es o fue miembro de la fuerza pública." >}}
+
+{{< chart file="dos.html" caption="Medicina Legal reporta que agentes de la policía han sido quienes más han agredido mujeres, seguido de miembros de seguridad privada." >}}
 
 "En un caso la mujer fue y denunció ante la Fiscalía y en menos de dos horas él ya sabía que ella lo había denunciado, sin aún tener fiscal asignado (…) Me sorprendía como circulaba de rápido la información entre ellos, normalmente la institucionalidad no funciona tan bien cuando hay que hacer garantía de derechos, siempre en alguna parte se quiebra la comunicación. Pero cuando se trata de casos donde policías o militares son los agresores, hacen una solidaridad de cuerpo para encubrir la violencia" señala Natalia Álvarez abogada y subdirectora de la Colectiva Justicia Mujer.
 
 Dada la experiencia de Natalia acompañando casos donde los victimarios son agentes de las Fuerza Pública, se deduce que la "solidaridad de cuerpo" se ejerce por preservar el buen nombre de la institución y porque hay una estructura "profundamente patriarcal que considera a las mujeres como un accesorio y propiedad de los hombres, donde la dignidad de una mujer no es suficiente para que el hombre coloque en riesgo su carrera profesional".
 
-En 2018 el Tribunal Administrativo de Cundinamarca, Juzgado 63, condenó a la Policía por no proceder a la judicialización del victimario de [Yury Sosa](https://docs.google.com/document/d/1qapU4yoEDTSNCGhx3REsZR3gJVovwBXz7pemk328jw4/edit#heading=h.q2h9kr6np6lg) tras realizar una visita domiciliaria donde existían evidencias de agresiones físicas por parte de su esposo, subintendente de la Policía, que horas después de la visita la asesinó.
+En 2018 el Tribunal Administrativo de Cundinamarca, Juzgado 63, condenó a la Policía por no proceder a la judicialización del victimario de [Yury Sosa]({{< ref "post/luchas-y-sobrevivientes.md" >}}) tras realizar una visita domiciliaria donde existían evidencias de agresiones físicas por parte de su esposo, subintendente de la Policía, que horas después de la visita la asesinó.
+
+{{< chart file="tres.html" caption="La violencia interpersonal es el tipo de agresión más frecuente por parte de miembros de la fuerza pública contra mujeres. Seguido de presuntos delitos sexuales." >}}
+
+{{< chart file="cuatro.html" caption="Los agentes de la policía son quienes más ejercen violencias interpersonales contra mujeres. A su vez, los miembros de las fuerzas militares son quienes más han ejercido presuntos delitos sexuales contra mujeres." >}}
 
 El Consejo de Estado en 2015 emitió una [sentencia](http://consejodeestado.gov.co/documentos/sentencias/17001233100020000118301.pdf) en la que declaró responsable a la Policía Nacional por omitir en la oficina de asuntos disciplinarios de la Policía la responsabilidad de este Subintendente por el feminicidio de su esposa, a quien le disparó con su arma de dotación en el cuello y reportó el hecho como un suicidio.
 
@@ -42,6 +52,8 @@ Yury también [reportó](https://docs.google.com/document/d/1qapU4yoEDTSNCGhx3RE
 A Gloria la mató su esposo con un revólver marca Smith & Wesson calibre 38L, que debía haber sido entregado por su victimario antes de salir a casa, arma que además colocó en una de las manos de la mujer para hacer parecer un suicidio.
 
 De 2016 a 2018 fueron suspendidas o canceladas 18 licencias de tenencia de armas. El Sistema de Información de Armas Municiones y Explosivos (SIAEM) "dada su configuración de sistema no registra el motivo de la suspensión" explica el Coronel Miller Nossa, Jefe del Departamento de Control y Comercio de Armas del Comando General de las Fuerzas Militares.
+
+{{< chart file="cinco.html" caption="De 1112 miembros de la fuerza pública indiciados por la Fiscalía General de la Nación por cometer violencia contra mujeres, 18 tuvieron sus licencias suspendidas o canceladas." >}}
 
 
 
