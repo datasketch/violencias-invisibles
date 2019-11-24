@@ -14,6 +14,19 @@
 
 @tailwind components;
 
+nav.post-nav {
+  @apply fixed top-0 left-0 w-full bg-transparent;
+  transition: background-color 0.25s ease;
+}
+
+nav.post-nav.affix {
+  @apply bg-white shadow-md;
+}
+
+nav.post-nav.affix img {
+  filter: brightness(0.3);
+}
+
 .content {
   @apply w-full px-4 mx-auto;
 }
