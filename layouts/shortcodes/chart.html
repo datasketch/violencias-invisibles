@@ -1,0 +1,10 @@
+<div class="chart md:hidden">
+  <div class="w-full relative h-64">
+    {{ with .Get "file" }}
+      <iframe src='/charts/{{ . }}' class="absolute inset-0 w-full h-full border-none"></iframe>
+    {{ end }}
+  </div>
+  {{ with .Get "caption" }}
+    <div class="chart-caption text-sm leading-tight text-center mt-2">{{ . }}</div>
+  {{ end }}
+</div>

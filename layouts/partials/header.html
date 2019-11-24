@@ -2,7 +2,7 @@
   <nav class="bg-mirage px-4 py-2">
 {{ else }}
   {{ $bg := .Params.background }}
-  <nav class="px-4 py-2 bg-top bg-cover bg-no-repeat" style="background-image: url(/images/{{$bg}}.png);">
+  <nav class="px-4 py-2 fixed top-0 left-0 bg-transparent w-full">
 {{ end }}
   <div class="flex justify-end items-center">
     <a href="https://www.datasketch.co" target="_blank">

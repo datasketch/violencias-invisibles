@@ -68,6 +68,10 @@
   @apply font-beth-ellen text-2xl mt-10 leading-tight;
 }
 
+.post-content .chart {
+  @apply mt-6;
+}
+
 @screen md {
   .content {
     @apply w-5/6;

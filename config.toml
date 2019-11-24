@@ -1,3 +1,5 @@
 baseURL = "/"
 languageCode = "es-CO"
 title = "Violencias Invisibles"
+[blackfriday]
+  hrefTargetBlank = true
