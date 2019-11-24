@@ -1,4 +1,9 @@
-<nav class="bg-mirage px-4 py-2">
+{{ if .IsHome }}
+  <nav class="bg-mirage px-4 py-2">
+{{ else }}
+  {{ $bg := .Params.background }}
+  <nav class="px-4 py-2 bg-top bg-cover bg-no-repeat" style="background-image: url(/images/{{$bg}}.png);">
+{{ end }}
   <div class="flex justify-end items-center">
     <a href="https://www.datasketch.co" target="_blank">
       <img class="w-40 image-white" src="/images/ds.svg" alt="">
