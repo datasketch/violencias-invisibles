@@ -1,0 +1,37 @@
+{{ define "main" }}
+  {{ $bg := .Params.background }}
+  <div class="py-32 bg-center bg-cover bg-no-repeat" style="background-image: url(/images/{{$bg}}.png);">
+    <div class="content">
+      <div class="w-full md:w-2/3">
+        <h1 class="text-white font-beth-ellen text-4xl md:text-5xl lg:text-6xl">{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+  <div class="bg-ecru-white py-24">
+    <div class="content post-content">
+      <div class="flex flex-col md:flex-row md:-mx-6">
+        <div class="w-full md:px-6 md:w-1/2">
+          <h3 class="banner-title">Correr el riesgo antes de callar</h3>
+          <p class="mt-16 text-base md:text-lg leading-tight">Leandra duró 18 años de casada con un sargento activo de las Fuerzas Militares, durante este tiempo recibió violencia física y psicológica. Tiene medida de riesgo de feminicidio extremo y actualmente adelanta un proceso de denuncia penal por violencia intrafamiliar. Ella asegura "que es mejor correr el riesgo antes que callar".</p>
+          <button id="first-audio" class="button mt-8 bg-mirage text-ecru-white text-xl md:text-2xl">Reproducir audio</button>
+        </div>
+        <div class="w-full md:px-6 md:w-1/2">
+          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style="background-image: url(/images/ilustracion-home.png);"></div>
+        </div>
+      </div>
+      <!---->
+      <div class="flex flex-col md:flex-row md:-mx-6 mt-20">
+        <div class="w-full md:px-6 md:w-1/2">
+          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style="background-image: url(/images/ilustracion-codigos.png);"></div>
+        </div>
+        <div class="w-full md:px-6 md:w-1/2">
+          <h3 class="banner-title">La violencia no se agota con un feminicidio</h3>
+          <p class="mt-16 text-base md:text-lg leading-tight">En 2014 el subintendente de la Policía Juan Ignacio Rojas asesinó por asfixia mecánica a su esposa Yury Sosa. Esta historia acumula una serie de violencias institucionales, aún después del feminicidio, ya que su prima lleva 5 años luchando en la justicia ordinaria por vía penal y administrativa en contra de la impunidad en este caso.</p>
+          <button id="last-audio" class="button mt-8 bg-mirage text-ecru-white text-xl md:text-2xl">Reproducir audio</button>
+        </div>
+      </div>
+      <!---->
+      <a href="{{ .Site.BaseURL }}" class="button mt-20 bg-mirage text-ecru-white text-xl md:text-2xl">Volver al inicio</a>
+    </div>
+  </div>
+{{ end }}

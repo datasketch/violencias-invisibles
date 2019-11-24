@@ -23,7 +23,7 @@
 }
 
 .button {
-  @apply inline-block px-4 py-2 leading-none uppercase;
+  @apply inline-block px-4 py-2 leading-none uppercase no-underline;
 }
 
 .banner-title {
