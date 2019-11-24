@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ $bg := .Params.background }}
-  <div class="py-32 bg-center bg-cover bg-no-repeat" style="background-image: url(/images/{{$bg}}.png);">
+  <div class="py-32 bg-center bg-cover bg-no-repeat" style='background-image: url("{{.Site.BaseURL}}images/{{$bg}}.png");' id="post-header">
     <div class="content">
       <div class="w-full md:w-2/3">
         <h1 class="text-white font-beth-ellen text-4xl md:text-5xl lg:text-6xl">{{ .Title }}</h1>
@@ -16,13 +16,13 @@
           <button id="first-audio" class="button mt-8 bg-mirage text-ecru-white text-xl md:text-2xl relative">Reproducir audio</button>
         </div>
         <div class="w-full md:px-6 md:w-1/2">
-          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style="background-image: url(/images/ilustracion-home.png);"></div>
+          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style='background-image: url("{{.Site.BaseURL}}images/ilustracion-home.png");'></div>
         </div>
       </div>
       <!---->
       <div class="flex flex-col md:flex-row md:-mx-6 mt-20">
         <div class="w-full md:px-6 md:w-1/2">
-          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style="background-image: url(/images/ilustracion-codigos.png);"></div>
+          <div class="w-full h-full bg-contain bg-top bg-no-repeat" style='background-image: url("{{.Site.BaseURL}}images/ilustracion-codigos.png");'></div>
         </div>
         <div class="w-full md:px-6 md:w-1/2">
           <h3 class="banner-title">La violencia no se agota con un feminicidio</h3>
@@ -36,5 +36,6 @@
 {{ end }}
 
 {{ define "js" }}
-  <script src="/js/media.js"></script>
+  <script src='{{ "js/navigation-single.js" | absURL }}'></script>
+  <script src='{{ "js/media.js" | absURL }}'></script>
 {{ end }}

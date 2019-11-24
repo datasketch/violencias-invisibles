@@ -15,7 +15,7 @@
 @tailwind components;
 
 nav.post-nav {
-  @apply fixed top-0 left-0 w-full bg-transparent;
+  @apply fixed top-0 left-0 w-full bg-transparent z-10;
   transition: background-color 0.25s ease;
 }
 

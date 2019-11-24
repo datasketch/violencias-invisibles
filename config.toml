@@ -1,5 +1,7 @@
-baseURL = "/"
+baseURL = "/violencias-invisibles/"
 languageCode = "es-CO"
 title = "Violencias Invisibles"
+publishDir = "docs"
+
 [blackfriday]
   hrefTargetBlank = true
