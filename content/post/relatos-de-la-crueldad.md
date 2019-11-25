@@ -5,11 +5,29 @@ draft: false
 background: cabaret
 ---
 
+## Periodistas aún sin enfoque de género
+
+De las 36 noticias registradas desde el 2015 hasta noviembre de 2019 en los formatos de prensa escrita, video y radio relacionadas con algún tipo de violencia ejercida en contra de las esposas y compañeras sentimentales por parte de agentes de la Fuerza Pública, se evidencia que se constituyen en hecho noticioso porque hay un agente de la Fuerza Pública que es el victimario, y entre mayor rango militar tenga éste, mayor es el cubrimiento de la información en la cadena informativa.
+
 ## Las narrativas de la información
 
 Se da peso en la construcción de información a las fuentes oficiales militares o de policía, pese a que haya sucedido un feminicidio por un agente de la Fuerza Pública activo o retirado, se suele utilizar como montaje fotográfico una imagen genérica de violencia contra la mujer, al victimario en uniforme, o una fotografía de la víctima.
 
+{{< image src="/images/relatos-1.png" link="http://www.elfrente.com.co/web/index.php?ecsmodule=frmstasection&ida=64&idb=143&idc=12116" caption="Fuente: elfrente.com.co" >}}
+
+{{< image src="/images/relatos-2.png" link="https://www.semana.com/nacion/articulo/coronel-r-joaquin-aldana-busca-cupo-en-tribunal-de-paz/518" caption="Fuente: Semana" >}}
+
+{{< image src="/images/relatos-3.png" link="https://www.bluradio.com/cali/intendente-de-la-policia-asesino-su-esposa-en-cali-y-despues-se-quito-la-vida-141894" caption="Fuente: Blu Radio" >}}
+
+{{< image src="/images/relatos-4.png" link="https://www.semana.com/nacion/articulo/murio-patrullera-herida-de-bala-en-la-direccion-de-la-policia/415395-3" caption="Fuente: Semana" >}}
+
 Es insistente encontrar la cita de testimonios como "la asesinó pero fue un accidente" es un "crimen pasional" y características emocionales de la víctima.
+
+{{< image src="/images/relatos-5.jpg" link="https://www.eltiempo.com/bogota/policia-asesino-a-su-esposa-con-arma-blanca-56888" caption="Fuente: El Tiempo" >}}
+
+{{< image src="/images/relatos-6.png" link="https://noticias.caracoltv.com/medellin/policia-fue-capturado-en-bello-al-parecer-mientras-agredia-su-esposa-en-estado-de-embarazo" caption="Fuente: Noticias Caracol" >}}
+
+{{< image src="/images/relatos-7.png" link="https://noticias.caracoltv.com/cali/policia-provoco-una-tragedia-asesino-bala-su-esposa-y-luego-se-quito-la-vida-en-cali" caption="Fuente: Noticias Caracol" >}}
 
 En los formatos de texto se privilegian los testimonios de las fuentes institucionales como: "El intendente estaba adscrito a la Policía Metropolitana de Cali y en el momento de la tragedia estaba de descanso", "al momento del homicidio no portaba el uniforme" para evitar responsabilidades institucionales sobre el hecho.
 

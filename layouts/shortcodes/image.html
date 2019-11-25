@@ -1,0 +1,6 @@
+<a href='{{ .Get "link" }}' target="_blank" class="block mt-6">
+  <figure>
+    <img src='{{ .Get "src" | relURL }}' class="mx-auto">
+    <figcaption class="text-center text-sm">{{ .Get "caption" }}</figcaption>
+  </figure>
+</a>

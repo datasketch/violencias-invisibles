@@ -3,7 +3,7 @@
   <input type="hidden" name="base_url" value="{{ .Site.BaseURL }}">
   <div class="py-32 bg-center bg-cover bg-no-repeat" style='background-image: url("{{.Site.BaseURL}}images/{{$bg}}.png");' id="post-header">
     <div class="content">
-      <div class="w-full md:w-2/3">
+      <div class="w-full md:w-3/5 lg:w-2/3">
         <h1 class="text-white font-beth-ellen text-4xl md:text-5xl lg:text-6xl">{{ .Title }}</h1>
       </div>
     </div>
@@ -32,6 +32,9 @@
         </div>
       </div>
       <!---->
+    </div>
+    <div class="content mt-10">
+      <a href="{{ .Site.BaseURL }}" class="button bg-mirage text-white">Volver al inicio</a>
     </div>
   </div>
 {{ end }}
