@@ -11,10 +11,14 @@ module.exports = {
       },
       fontFamily: {
         'beth-ellen': ['"Beth Ellen"', 'cursive'],
-        'barlow-condensed': ['"Barlow Condensed"', 'sans-serif']
+        'barlow-condensed': ['"Barlow Condensed"', 'sans-serif'],
       },
-    }
+      backgroundSize: {
+        'none': '0',
+        '45': '45%',
+      },
+    },
   },
   variants: {},
-  plugins: []
+  plugins: [],
 }
