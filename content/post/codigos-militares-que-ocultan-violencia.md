@@ -3,6 +3,7 @@ title: "Códigos militares que ocultan violencia"
 date: 2019-11-22T20:57:00-05:00
 draft: false
 background: surfie-blue
+charts: codigos-militares.html
 ---
 
 Es recurrente encontrar en los testimonios de mujeres agredidas por miembros activos o retirados de la Fuerza Pública el comportamiento de "espíritu de cuerpo" (un código militar que significa lealtad ante las órdenes y obediencia a los superiores) por parte de la Policía como agente inmediato que debe actuar ante una agresión.
