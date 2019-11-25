@@ -53,8 +53,3 @@ Yury también [reportó](https://docs.google.com/document/d/1qapU4yoEDTSNCGhx3RE
 A Gloria la mató su esposo con un revólver marca Smith & Wesson calibre 38L, que debía haber sido entregado por su victimario antes de salir a casa, arma que además colocó en una de las manos de la mujer para hacer parecer un suicidio.
 
 De 2016 a 2018 fueron suspendidas o canceladas 18 licencias de tenencia de armas. El Sistema de Información de Armas Municiones y Explosivos (SIAEM) "dada su configuración de sistema no registra el motivo de la suspensión" explica el Coronel Miller Nossa, Jefe del Departamento de Control y Comercio de Armas del Comando General de las Fuerzas Militares.
-
-{{< chart file="cinco.html" caption="De 1112 miembros de la fuerza pública indiciados por la Fiscalía General de la Nación por cometer violencia contra mujeres, 18 tuvieron sus licencias suspendidas o canceladas." >}}
-
-
-
