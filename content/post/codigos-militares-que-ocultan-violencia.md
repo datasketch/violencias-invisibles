@@ -48,7 +48,7 @@ En varias de las unidades militares y de Policía, la implementación de la pol�
 
 Leandra y Daniela cuentan como más de una vez en una discusión de pareja, sus esposos utilizaron el arma de dotación para amenazarlas "yo soy la ley y a mí la ley no me cae", le repetía varias veces el ex esposo a Leandra cuando la golpeaba. "(…) Todo está mediado por el arma ¿cómo te le metes a un tipo que está armado? si él es el que tiene el arma, ¿cómo le dices que no?" señala María sobre las múltiples situaciones de violencia intrafamiliar que percibió viviendo en diferentes lugares del país en casas fiscales.
 
-Yury también [reportó](https://docs.google.com/document/d/1qapU4yoEDTSNCGhx3REsZR3gJVovwBXz7pemk328jw4/edit#heading=h.q2h9kr6np6lg) ante la Comisaría Novena de Familia "me está amenazando con asesinarme y tiene dos armas de propiedad de él".
+Yury también [reportó]({{< relref "/post/luchas-y-sobrevivientes.md" >}}) ante la Comisaría Novena de Familia "me está amenazando con asesinarme y tiene dos armas de propiedad de él".
 
 A Gloria la mató su esposo con un revólver marca Smith & Wesson calibre 38L, que debía haber sido entregado por su victimario antes de salir a casa, arma que además colocó en una de las manos de la mujer para hacer parecer un suicidio.
 

@@ -52,7 +52,7 @@ Además de la estética corporal, [investigaciones](http://repository.lasalle.ed
 
 {{< chart class="md:hidden" file="trece.html" caption="A su vez, los agentes con ocupaciones exclusivas de fuerzas militares son los más indiciados por violencia contra mujeres, seguidos por patrulleros de la policía nacional." >}}
 
-{{< chart class="md:hidden" file="catorce.html" caption="De 2015 a 2017, 498 mujeres fueron víctimas de homicidio por parte de agentes de la fuerza pública." >}}
+{{< chart class="md:hidden" file="catorce.html" caption="De 2015 a 2017, hubo 498 agentes de la fuerza pública indiciados por feminicidio." >}}
 
 [Leandra]({{< ref "luchas-y-sobrevivientes.md" >}}) lleva un historial de denuncias ante la Fiscalía en varias ciudades del país, en cada traslado de su ex esposo va reportando el historial de violencia. “Esto sucede porque la Fiscalía argumenta que no tiene un sistema que permita evidenciar o enlazar denuncias sobre un mismo caso, ellos saben que esto sucede y se puede resolver ajustando el protocolo de denuncia pero no hay voluntad política para resolver este asunto” señala Natalia Álvarez.
 
@@ -68,7 +68,7 @@ Además de la estética corporal, [investigaciones](http://repository.lasalle.ed
 
 {{< chart class="md:hidden" file="dieciocho.html" caption="De 2015 a 2018, 34 miembros de la fuerza pública fueron privados de la libertad por cometer delitos contra mujeres." >}}
 
-{{< chart class="md:hidden" file="diecisiete.html" caption="Esto significa que tan sólo % de los indiciados por cometer delitos contra la mujer, son enviados a la cárcel" >}}
+{{< chart class="md:hidden" file="diecisiete.html" caption="Esto significa que tan sólo 10,4% de los indiciados por cometer delitos contra la mujer, son enviados a la cárcel" >}}
 
 En su ejercicio como abogada, ella señala que "cuando una medida de protección es proferida por un juez, el Policía la acata de inmediato, contrario si proviene de una Comisaría de Familia, en ese caso siente que puede opinar (…)".
 
