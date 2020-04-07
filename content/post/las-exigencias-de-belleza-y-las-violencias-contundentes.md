@@ -66,7 +66,7 @@ Además de la estética corporal, [investigaciones](http://repository.lasalle.ed
 
 "Nos dimos cuenta que la Policía no sabía cuáles eran los elementos de tipo penal de violencia intrafamiliar para proceder a una judicialización, les parece totalmente excesivo que un hombre tenga que ir a la cárcel por pegarle a la mujer (…). Donde es evidente la violencia, la policía llega a dar consejos" (…) Además ¿cómo le dices a una víctima en caso de una agresión por un policía que la misma Policía la va a proteger?" reflexiona Natalia.
 
-{{< chart class="md:hidden" file="dieciocho.html" caption="De 2015 a 2018, 34 miembros de la fuerza pública fueron privados de la libertad por cometer delitos contra mujeres." >}}
+{{< chart class="md:hidden" file="dieciocho.html" caption="De 2015 a 2018, 34 miembros de la Fuerza Pública fueron privados de la libertad por cometer delitos contra una mujer." >}}
 
 {{< chart class="md:hidden" file="diecisiete.html" caption="Esto significa que tan sólo 10,4% de los indiciados por cometer delitos contra la mujer, son enviados a la cárcel" >}}
 
